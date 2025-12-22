@@ -1,5 +1,6 @@
 Transformer Health and Grid Fault Detection Monitoring System Using IoT
-#$PROJECT DESCRIPTION
+
+PROJECT DESCRIPTION
 
 The system monitors key grid parameters - voltage, current, and transformer temperature and gas detection - 
 and transmits sensor datas to Power BI for real-time analysis. 
