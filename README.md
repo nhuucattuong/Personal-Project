@@ -22,6 +22,8 @@ When abnormal values or faults are detected, alerts are triggered automatically 
 2. Continuous monitoring of transformer performance
 3. Improved operational efficiency and reduced downtime
  ![F772FF46-721A-4306-878E-9EF267ACB35E](https://github.com/user-attachments/assets/bfa56936-5120-493a-90a6-bc84bf2ebeff)
+
+
 **Results**
 1. Improved fault response time and reduced system downtime.
 2. Demonstrated stable communication between hardware and IoT platform.
