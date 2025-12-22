@@ -32,6 +32,11 @@ When abnormal values or faults are detected, alerts are triggered automatically 
 1. Improved fault response time and reduced system downtime.
 2. Demonstrated stable communication between hardware and IoT platform.
 
+**Key Outcome**
+1. Designed a 3-phase to DC power converter for the IoT system.
+2. Integrated sensors and microcontroller for real-time grid monitoring.
+3. Programmed fault detection logic
+
 **Future Enhancements**
 1. Power BI Dashboard for advanced analytics and historical data tracking.
 2. Multi-Transformer Support for monitoring multiple transformers in a power grid.
