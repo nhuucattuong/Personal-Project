@@ -6,7 +6,10 @@ The system monitors key grid parameters - voltage, current, and transformer temp
 and transmits sensor datas to Power BI for real-time analysis. 
 When abnormal values or faults are detected, alerts are triggered automatically to ensure quick maintenance.
 
+![image1](https://github.com/user-attachments/assets/e9b2c7ec-e8ae-400c-96a8-4a22d42e3447)
+
 **Key Features**
+
 1. Real-time fault detection in grid systems
 2. Continuous monitoring of transformer performance
 
