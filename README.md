@@ -9,10 +9,10 @@ When abnormal values or faults are detected, alerts are triggered automatically 
 2. Continuous monitoring of transformer performance
 
 **Tool and Technologies**
-Hardware: Arduino/ESP8266, Sensors
-Software: Arduino IDE
-Power Converter Design: 3-phase AC-DC converter
-Programming: C++
+1. Hardware: Arduino/ESP8266, Sensors
+2. Software: Arduino IDE
+3. Power Converter Design: 3-phase AC-DC converter
+4. Programming: C++
 
 **Key Features**
 1. Real-time fault detection in grid systems
