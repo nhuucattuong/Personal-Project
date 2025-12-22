@@ -13,6 +13,10 @@ When abnormal values or faults are detected, alerts are triggered automatically 
 1. Real-time fault detection in grid systems
 2. Continuous monitoring of transformer performance
 
+
+![Project2](https://github.com/user-attachments/assets/4a27c39a-28dd-4fce-b71c-6010ce1f0860)
+
+
 **Tool and Technologies**
 1. Hardware: Arduino/ESP8266, Sensors
 2. Software: Arduino IDE
