@@ -5,8 +5,9 @@ PROJECT DESCRIPTION
 The system monitors key grid parameters: voltage, current, and transformer temperature and gas detection. It then
 and transmits sensor datas to Power BI for real-time analysis. 
 When abnormal values or faults are detected, alerts are triggered automatically to ensure quick maintenance.
+![IoT_Project](https://github.com/user-attachments/assets/ad801aa3-8e2d-45a5-b215-3a94444096c0)
 
-![image1](https://github.com/user-attachments/assets/e9b2c7ec-e8ae-400c-96a8-4a22d42e3447)
+
 
 
 
